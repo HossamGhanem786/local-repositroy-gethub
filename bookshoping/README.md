@@ -1,4 +1,4 @@
-# BookStore-Springboot-Angular6
+# BookShoping-Springboot-Angular6
 Java Project to how use Spring Boot and Angular 6
 this project is new version of Udemy course, "Build Angular 2 Complement -E-Commerce App - Java, Spring, MySQL"
 i upgrade it from angular 2 to angular 6 and fix bugs
